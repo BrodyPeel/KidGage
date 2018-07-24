@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "653362542916",
+    "firebase_url": "https://kidgage-8add6.firebaseio.com",
+    "project_id": "kidgage-8add6",
+    "storage_bucket": "kidgage-8add6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653362542916:android:e768449883fd9fca",
+        "android_client_info": {
+          "package_name": "com.PocketComplex.KidGage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653362542916-sjs3bh3nkcll2kl1ncnq0sfgs8k1o69a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2uFr01MgMwh6aZLaPnP-K4YuxPNS0xE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
